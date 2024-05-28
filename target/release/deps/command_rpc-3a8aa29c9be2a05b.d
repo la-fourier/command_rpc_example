@@ -1,0 +1,10 @@
+C:\Users\LoosM\Desktop\command_rpc_example\target\release\deps\command_rpc-3a8aa29c9be2a05b.dll: C:\Users\LoosM\.cargo\registry\src\index.crates.io-6f17d22bba15001f\command-rpc-0.1.11\./src/lib.rs C:\Users\LoosM\.cargo\registry\src\index.crates.io-6f17d22bba15001f\command-rpc-0.1.11\./src\build.rs C:\Users\LoosM\.cargo\registry\src\index.crates.io-6f17d22bba15001f\command-rpc-0.1.11\./src\build_command.rs C:\Users\LoosM\.cargo\registry\src\index.crates.io-6f17d22bba15001f\command-rpc-0.1.11\./src\build_nested.rs C:\Users\LoosM\.cargo\registry\src\index.crates.io-6f17d22bba15001f\command-rpc-0.1.11\./src\checks.rs C:\Users\LoosM\.cargo\registry\src\index.crates.io-6f17d22bba15001f\command-rpc-0.1.11\./src\return_token.rs
+
+C:\Users\LoosM\Desktop\command_rpc_example\target\release\deps\command_rpc-3a8aa29c9be2a05b.d: C:\Users\LoosM\.cargo\registry\src\index.crates.io-6f17d22bba15001f\command-rpc-0.1.11\./src/lib.rs C:\Users\LoosM\.cargo\registry\src\index.crates.io-6f17d22bba15001f\command-rpc-0.1.11\./src\build.rs C:\Users\LoosM\.cargo\registry\src\index.crates.io-6f17d22bba15001f\command-rpc-0.1.11\./src\build_command.rs C:\Users\LoosM\.cargo\registry\src\index.crates.io-6f17d22bba15001f\command-rpc-0.1.11\./src\build_nested.rs C:\Users\LoosM\.cargo\registry\src\index.crates.io-6f17d22bba15001f\command-rpc-0.1.11\./src\checks.rs C:\Users\LoosM\.cargo\registry\src\index.crates.io-6f17d22bba15001f\command-rpc-0.1.11\./src\return_token.rs
+
+C:\Users\LoosM\.cargo\registry\src\index.crates.io-6f17d22bba15001f\command-rpc-0.1.11\./src/lib.rs:
+C:\Users\LoosM\.cargo\registry\src\index.crates.io-6f17d22bba15001f\command-rpc-0.1.11\./src\build.rs:
+C:\Users\LoosM\.cargo\registry\src\index.crates.io-6f17d22bba15001f\command-rpc-0.1.11\./src\build_command.rs:
+C:\Users\LoosM\.cargo\registry\src\index.crates.io-6f17d22bba15001f\command-rpc-0.1.11\./src\build_nested.rs:
+C:\Users\LoosM\.cargo\registry\src\index.crates.io-6f17d22bba15001f\command-rpc-0.1.11\./src\checks.rs:
+C:\Users\LoosM\.cargo\registry\src\index.crates.io-6f17d22bba15001f\command-rpc-0.1.11\./src\return_token.rs:
